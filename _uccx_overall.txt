@@ -1,0 +1,10 @@
+2022-08-18 23:13:38.000582
+
+OverAll - Active=0
+OverAll - loggedinagents=0
+OverAll - availableagents=0
+OverAll - unavailableagents=0
+OverAll - totalcalls=292
+OverAll - callswaiting=0
+OverAll - callshandled=192
+OverAll - callsabandoned=100
